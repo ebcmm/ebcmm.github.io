@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual Services on EBC</title>
+    <link>https://ebcmm.github.io/tags/virtual-services/</link>
+    <description>Recent content in Virtual Services on EBC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Mar 2021 15:29:28 -0400</lastBuildDate><atom:link href="https://ebcmm.github.io/tags/virtual-services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome, to our new site</title>
+      <link>https://ebcmm.github.io/post/welcome/</link>
+      <pubDate>Tue, 23 Mar 2021 15:29:28 -0400</pubDate>
+      
+      <guid>https://ebcmm.github.io/post/welcome/</guid>
+      <description>Our Latest Virtual Service   </description>
+    </item>
+    
+  </channel>
+</rss>
