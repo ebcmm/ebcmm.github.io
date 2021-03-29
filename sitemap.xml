@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ebcmm.github.io/</loc>
-    <lastmod>2021-03-23T15:29:28-04:00</lastmod>
+    <lastmod>2021-03-28T20:36:44-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ebcmm.github.io/services/</loc>
+    <lastmod>2021-03-28T20:36:44-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://ebcmm.github.io/tags/</loc>
-    <lastmod>2021-03-23T15:29:28-04:00</lastmod>
+    <lastmod>2021-03-28T19:24:46-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ebcmm.github.io/tags/virtual-services/</loc>
-    <lastmod>2021-03-23T15:29:28-04:00</lastmod>
+    <loc>https://ebcmm.github.io/tags/upcoming/</loc>
+    <lastmod>2021-03-28T19:24:46-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ebcmm.github.io/post/welcome/</loc>
-    <lastmod>2021-03-23T15:29:28-04:00</lastmod>
+    <loc>https://ebcmm.github.io/post/upcoming/</loc>
+    <lastmod>2021-03-28T19:24:46-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

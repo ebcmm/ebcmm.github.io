@@ -6,14 +6,25 @@
     <description>Recent content in El Bethel Baptist Church on EBC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Mar 2021 15:29:28 -0400</lastBuildDate><atom:link href="https://ebcmm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 20:36:44 -0400</lastBuildDate><atom:link href="https://ebcmm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome, to our new site</title>
-      <link>https://ebcmm.github.io/post/welcome/</link>
-      <pubDate>Tue, 23 Mar 2021 15:29:28 -0400</pubDate>
+      <title>Upcoming Events</title>
+      <link>https://ebcmm.github.io/post/upcoming/</link>
+      <pubDate>Sun, 28 Mar 2021 19:24:46 -0400</pubDate>
       
-      <guid>https://ebcmm.github.io/post/welcome/</guid>
-      <description>Our Latest Virtual Service   </description>
+      <guid>https://ebcmm.github.io/post/upcoming/</guid>
+      <description>Church Conference
+Date: Thursday, April 1, 2020
+Time: 6:30pm
+Members only
+ Easter Program
+Date: Saturday, April 3, 2021
+Time: 11am
+See Sis. Thomas for additional information
+ ElBethel Virtual Service and Communion
+Date: Sunday, April 4, 2021
+Time: 11am
+On Zoom, Facebook and Youtube. See Contact Us</description>
     </item>
     
     <item>
@@ -22,11 +33,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ebcmm.github.io/contact/</guid>
-      <description>Follow Us on (Click Below): 
-
-Located at: ElBethel Baptist Church
-Address: 244 N Irwin St Milledgeville, GA 31061
-Phone Number:+1 (478)-452-8003</description>
+      <description>Follow Us on  
+Located at:   ElBethel Baptist Church Address: 244 N Irwin St
+City: Milledgeville, GA 31061
+Email: ebcopendoors@gmail.com</description>
     </item>
     
   </channel>

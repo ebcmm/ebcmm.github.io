@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upcoming on EBC</title>
+    <link>https://ebcmm.github.io/tags/upcoming/</link>
+    <description>Recent content in Upcoming on EBC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Mar 2021 19:24:46 -0400</lastBuildDate><atom:link href="https://ebcmm.github.io/tags/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming Events</title>
+      <link>https://ebcmm.github.io/post/upcoming/</link>
+      <pubDate>Sun, 28 Mar 2021 19:24:46 -0400</pubDate>
+      
+      <guid>https://ebcmm.github.io/post/upcoming/</guid>
+      <description>Church Conference
+Date: Thursday, April 1, 2020
+Time: 6:30pm
+Members only
+ Easter Program
+Date: Saturday, April 3, 2021
+Time: 11am
+See Sis. Thomas for additional information
+ ElBethel Virtual Service and Communion
+Date: Sunday, April 4, 2021
+Time: 11am
+On Zoom, Facebook and Youtube. See Contact Us</description>
+    </item>
+    
+  </channel>
+</rss>
